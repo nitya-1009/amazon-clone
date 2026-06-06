@@ -17,7 +17,7 @@
 }
 
 .header-logo{
-    background-image: url("assests/images/amazon_logo.jpg");
+    background-image: url("assests/images/amazonlogo.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-color: transparent;
@@ -232,7 +232,7 @@ ul a{
 
 }
 .footer-logo{
-    background-image: url("");
+    background-image: url("assets/images/logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-color: transparent;
